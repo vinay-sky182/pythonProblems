@@ -1,0 +1,7 @@
+print(10+14)
+print(10.10+14.14)
+print(10+14.14)
+print('Welcome' + ' ' + 'Back')
+print(True+10)
+# print('Welcome'+10)
+# print('Welcome'+True)

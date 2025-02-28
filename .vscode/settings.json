@@ -1,0 +1,5 @@
+{
+    "python.createEnvironment.contentButton": "show",
+    "python.REPL.enableREPLSmartSend": false,
+    "python.testing.pytestEnabled": true
+}
