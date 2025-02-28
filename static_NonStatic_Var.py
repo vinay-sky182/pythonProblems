@@ -3,7 +3,7 @@ class Car:
     wheels = 4
 
     def __init__(self, brand, model, price, milage):
-        self.brand = brand
+        self.brand = brand # Instance Variables
         self.model = model
         self.price = price
         self.milage = milage
