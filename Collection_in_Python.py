@@ -256,7 +256,7 @@ print("************************");
 
 # ************************************************************************************************************************************* #
 
-""" 2) Tuple () "The elements within a tuple can also be mutable(changeable) or immutable. However, tuples themselves are immutable(unchangeable)" """
+""" 2) Tuple () "The elements within a tuple can also be mutable(changeable) if it contain elements, such as lists or dictionaries, those elements can be changed In this case, the list or dictionary inside the tuple can be modified, but the tuple itself cannot be changed (e.g., you cannot replace the list or dictionary with another element)."""
 
 # diffrence b/w list and tuple
 
